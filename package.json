@@ -1,0 +1,22 @@
+{
+  "name": "parcel-plugin-lazy",
+  "version": "0.0.1",
+  "description": "Parcel plugin to support data-srcset and data-src",
+  "main": "./index.js",
+  "keywords": [
+    "parcel",
+    "lazy",
+    "images",
+    "data-src",
+    "data-srcset"
+  ],
+  "author": "Mateusz Kwasniewski",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwasniew/parcel-plugin-lazy.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "1.6.2"
+  }
+}
