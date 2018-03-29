@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-lazy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parcel plugin to support data-srcset and data-src",
   "main": "./index.js",
   "keywords": [
